@@ -6,19 +6,59 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>The Sea of Sunset" and "Purple Clover" by Emily Dickinson</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication information</p>
+            <p>Roberts Brothers, Boston (1890)</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>A poem</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="poem"> 
+            <lg type="stanza">
+               <l>THIS is the land the sunset washes</l>
+               <l>These are the banks of the Yellow Sea ;</l>
+               <l>Where it rose, or whither it rushes,</l>
+               <l>These are the western mystery !</l>
+            </lg>
+            <lg>
+               <l> Night after night her purple traffic</l>
+               <l>Strews the landing with opal bales ;</l>
+               <l>Merchantmen poise upon horizons,</l>
+               <l>Dip, and vanish with fairy sails.</l>
+            </lg>
+          </div>
+          <div>
+            <lg type="stanza">
+               <l>THERE is a flower that bees prefer,</l>
+               <l>And butterflies desire</l>
+               <l>To gain the purple democrat</l>
+               <l>The humming-birds aspire.</l>
+            </lg>
+            <lg>
+              <l>And whatsoever insect pass,</l>
+              <l>A honey bears away</l>
+              <l>Proportioned to his several dearth</l>
+              <l>And her capacity</l>
+            </lg>
+            <lg>
+              <l>Her face is rounder than the moon,</l>
+              <l>And ruddier than the gown</l>
+              <l>Of orchis in the pasture,</l>
+              <l>Or rhododendron worn.</l>
+            </lg>
+            <lg>
+              <l>She doth not wait for June ;</l>
+              <l>Before the world is green</l>
+              <l>Her sturdy little countenance</l>
+              <l>Against the wind is seen,</l>
+              <l>  (to be continued...)</l>
+            </lg>
+          </div>
       </body>
   </text>
 </TEI>
